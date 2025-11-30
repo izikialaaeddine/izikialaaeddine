@@ -35,8 +35,12 @@ Everything I build has one goal: <b>clarity, efficiency, and real impact — bot
 <h1>🧩 Main Projects</h1>
 <p><i>(Click to expand each one)</i></p>
 
+
+### 🚀 TRADELEVO — Advanced Trading Journal & Analytics Platform  
+🔧 *In Development*
+
 <details>
-<summary><b>🚀 TRADELEVO — Advanced Trading Journal & Analytics Platform</b></summary><br>
+<summary><b>More details</b></summary><br>
 
 A structured, data-driven platform designed for <b>serious traders</b> who want measurable progress.
 
@@ -57,10 +61,14 @@ React • Laravel • Tailwind • MySQL
 
 </details>
 
-<details>
-<summary><b>🏫 BTS AZLI — Events & Clubs Management Platform</b></summary><br>
+<br><br>
 
-<b>Live Preview:</b> https://bts-bde.vercel.app
+
+### 🏫 BTS AZLI — Events & Clubs Management Platform  
+🔗 **Live Preview:** https://bts-bde.vercel.app
+
+<details>
+<summary><b>More details</b></summary><br>
 
 <h4>✔ What it does</h4>
 
@@ -77,12 +85,13 @@ Turned a messy offline process into an automated and structured platform.
 
 Laravel • Tailwind • MySQL • JWT Auth
 
-</details>
+</details><br><br>
+
+
+### 👟 Le Coq Sportif — Internal Sample Management System  
 
 <details>
-<summary><b>👟 Le Coq Sportif — Internal Sample Management System</b></summary><br>
-
-A professional platform developed during my internship for sample and stock management.
+<summary><b>More details</b></summary><br>
 
 <h4>✔ Handles the full cycle:</h4>
 
@@ -129,5 +138,4 @@ I build systems that automate, scale, and solve real problems.
 In both software and trading:
 precision beats emotion.
 Structure beats randomness.
-And consistency beats everything.
-
+Consistency beats everything.
