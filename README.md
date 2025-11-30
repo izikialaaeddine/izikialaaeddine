@@ -1,109 +1,134 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&center=true&vCenter=true&width=900&height=80&lines=Alaa+Eddin+—+System+Architect+%26+Full-Stack+Engineer;Builder+of+Digital+Products+%7C+Trading+Tech+%7C+Automation;Turning+Ideas+Into+High-Impact+Software;Developer+%7C+Trader+%7C+Problem+Solver">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&center=true&vCenter=true&width=900&height=80&lines=Alaa+Eddin+—+Full-Stack+Engineer+%26+Systems+Builder;Trading+Technology+%7C+Web+Platforms+%7C+Automation;Building+Products+That+Solve+Real+Problems;">
 </p>
 
 ---
 
-<h2 align="center">⚡ I Build Systems — Not Just Websites</h2>
+<h2 align="center">I Build High-Performance Systems for the Web & Financial Markets</h2>
 
 <p align="center">
-I design and engineer <b>scalable platforms</b>, <b>high-performance dashboards</b>, <b>full-stack applications</b>, <br>
-and <b>advanced tools for trading analytics & automation</b>.
-<br><br>
-My code solves real problems — for schools, companies, and traders.
+I design scalable platforms, automation tools, and trading-analysis systems.<br>
+Everything I build has one goal: <b>efficiency, clarity, and real impact.</b>
 </p>
+
 
 ---
 
-# 🧬 **Tech Stack (with Icons PRO)**
+# 🧬 **Tech Stack**
 
 <div align="center">
 
 ### **Frontend**
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" height="55"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" height="45"/>
 
 ### **Backend**
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql" height="55"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql" height="45"/>
 
-### **Programming Languages**
-<img src="https://skillicons.dev/icons?i=c,java,python" height="55"/>
+### **Languages**
+<img src="https://skillicons.dev/icons?i=c,java,python" height="45"/>
 
 ### **Tools**
-<img src="https://skillicons.dev/icons?i=git,linux,figma,vscode" height="55"/>
+<img src="https://skillicons.dev/icons?i=git,linux,figma,vscode" height="45"/>
 
 </div>
 
----
-
-# 🧠 **What I Build**
-
-- ⚡ Full-stack systems with business logic  
-- 📊 Trading-analysis platforms  
-- 🧩 Enterprise workflow automation  
-- 🛰 APIs & backend engines  
-- 🎛 Real-time dashboards  
-- 🔐 Secure authentication systems  
 
 ---
 
-# 🧨 **Signature Projects**
+# 🧩 **Main Projects**  
+*(Click to expand each one)*  
 
-## 🚀 **TRADELEVO — Trading Journal for High-Performance Traders**
-A professional tool engineered for:
-- Trade journaling  
-- Pattern recognition  
+
+---
+
+## <details><summary><b>🚀 TRADELEVO — Professional Trading Journal & Analytics Tool</b></summary><br>
+
+A structured and high-performance platform built for serious traders.
+
+### ✔ Features
+- Advanced trade journaling  
+- Pattern & behavior recognition  
 - Performance analytics  
-- Strategy refinement  
-- Risk & psychology profiling  
+- Psychology & risk tracking  
+- Clean UI inspired by fund dashboards  
 
-Built like a **hedge-fund dashboard**, not a basic notebook.
+### ✔ Tech  
+React • Laravel • Tailwind • MySQL
 
----
+> Built for traders who want measurable improvement — not guessing.
 
-## 🏫 **BTS AZLI — Events & Clubs Management Platform**
-A complete digital system for my school:
-- Manage clubs  
-- Organize events  
-- Publish announcements  
-- Track internal activity  
+</details>
 
-Saved hours of administrative work.
 
 ---
 
-## 👟 **Le Coq Sportif — Product Sample Management System**
-Built during my internship.  
-Handles the full lifecycle of:
+## <details><summary><b>🏫 BTS AZLI — Events & Clubs Management Platform</b></summary><br>
+
+**Live Preview:** https://bts-bde.vercel.app
+
+### ✔ What it does
+- Manages clubs & organizations  
+- Announces school events  
+- Handles communication with students  
+- Full admin dashboard  
+
+### ✔ Impact  
+A tool replacing messy offline workflows with an organized, automated system.
+
+### ✔ Tech  
+Laravel • Tailwind • MySQL • JWT Auth
+
+</details>
+
+
+---
+
+## <details><summary><b>👟 Le Coq Sportif — Sample Management System</b></summary><br>
+
+A professional internal tool built during my internship.
+
+### ✔ Handles the full cycle:
 - Clothing & shoe samples  
-- Incoming requests  
-- Returns  
-- Stock states  
-- Item history  
+- Requests & returns  
+- Stock management  
+- Product information  
+- Complete history tracking
 
-A real business platform used internally.
+### ✔ Impact  
+Removed hours of manual work and improved workflow accuracy.
 
----
+### ✔ Tech  
+PHP • MySQL • Bootstrap
 
-# 🏆 **Trading Credentials (Verified)**
+</details>
 
-<p align="center"><b>✔ Funded Trader — Multi-Phase Challenges Passed</b></p>
-
-<p align="center">
-  <img src="https://fundednext.fra1.digitaloceanspaces.com/Certificates/2024/12/ALAA-EDDINE-IZIKI@aa@62e887e0e8de3.jpg" width="350"/>
-  <img src="https://fundednext.fra1.digitaloceanspaces.com/Certificates/2025/07/ALAA-EDDINE-IZIKI@aa@87638373e3bd8.jpg" width="350"/>
-  <img src="https://fundednext.fra1.digitaloceanspaces.com/Certificates/2025/11/IZIKI-ALAA-EDDINE@aa@c23b06f69a34e.jpg" width="350"/>
-</p>
-
-<p align="center">
-I trade mainly <b>Nasdaq (US100)</b> using structured risk management & price-action logic.<br>
-My dev skills + trading discipline = I build tools that give traders a measurable edge.
-</p>
 
 ---
 
-# 🎯 **Mindset**
+# 📈 **Trading Credentials (Verified)**
+
+<p align="center"><b>Multi-Phase Funded Trader — Verified Certificates</b></p>
+
+<p align="center">
+  <img src="https://fundednext.fra1.digitaloceanspaces.com/Certificates/2024/12/ALAA-EDDINE-IZIKI@aa@62e887e0e8de3.jpg" width="320"/>
+  <img src="https://fundednext.fra1.digitaloceanspaces.com/Certificates/2025/07/ALAA-EDDINE-IZIKI@aa@87638373e3bd8.jpg" width="320"/>
+  <img src="https://fundednext.fra1.digitaloceanspaces.com/Certificates/2025/11/IZIKI-ALAA-EDDINE@aa@c23b06f69a34e.jpg" width="320"/>
+</p>
+
+<p align="center">
+I mainly trade <b>Nasdaq (US100)</b> using precision, structure, and disciplined risk management.<br>
+My engineering mindset influences my trading — <b>no emotion, only data.</b>
+</p>
+
+
+---
+
+# ⚙️ **Developer Philosophy**
 ```txt
-> Engineering + Trading = Precision.
-> I don’t guess. I don’t rush.
-> I build systems that win — in code, and in the market.
+I don't write code to fill pages.
+I build systems that automate, scale, and transform workflows.
+
+In tech or in trading,
+precision beats emotion.
+
