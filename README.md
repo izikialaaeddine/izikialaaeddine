@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&center=true&vCenter=true&width=900&height=80&lines=ALAA+EDDINE+IZIKI+—+Full-Stack+Developer+%26+Trader;Trading+Technology+%7C+Web+Platforms+%7C+Automation;Building+Systems+That+Actually+Solve+Problems.">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&center=true&vCenter=true&width=900&height=80&lines=ALAA+EDDINE+IZIKI+—+Full-Stack+Web+Developer+%26+Trader;Trading+Technology+%7C+Web+Platforms+%7C+Automation;Building+Systems+That+Actually+Solve+Problems.">
 </p>
 
 ---
